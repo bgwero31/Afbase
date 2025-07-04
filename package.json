@@ -1,5 +1,4 @@
-{
-  "name": "afribase",
+{ "name": "afribase",
   "version": "1.0.0",
   "description": "The all-in-one African super app",
   "main": "src/index.js",
